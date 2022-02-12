@@ -30,7 +30,7 @@
     "ag-grid": "^18.1.2",
     "ag-grid-angular": "^18.1.0",
     "ag-grid-enterprise": "^18.1.1",
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "aws-amplify": "^1.1.36",
     "aws-amplify-angular": "^2.1.12",
     "bootstrap": "^4.3.1",
